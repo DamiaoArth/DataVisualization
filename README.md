@@ -209,7 +209,7 @@ Os critérios utilizados para comparar as ferramentas foram:
 ### 3.4 Streamlit
 
 <div style="background: linear-gradient(180deg, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.3) 100%); padding: 15px; border-radius: 15px; font-size: 16px;">
-  <img src="images/imagem_2025-02-27_125725870.png" alt="Streamlit" width="20px" style="border-radius: 5px;" /><strong> Streamlit</strong>
+  <img src="images/streamlit-icon.png" alt="Streamlit" width="20px" style="border-radius: 5px;" /><strong> Streamlit</strong>
   <br></br>
   <p>Testei o Streamlit utilizando uma base de dados sobre a população estadual brasileira nos últimos anos. A base era bem completa, o que permitiu explorar diversas funcionalidades da plataforma. No início, tive dificuldades para rodar o framework devido a problemas de configuração de ambiente, mas, após resolver essas questões, consegui começar o desenvolvimento.</p>
   <p>Criar dashboards no Streamlit foi relativamente fácil para mim, pois já tenho familiaridade com programação. No entanto, para quem não tem experiência em Python, pode ser mais desafiador. A documentação do Streamlit, no entanto, é bem completa e oferece diversos exemplos para quem está começando. Além disso, a possibilidade de personalizar as visualizações com código Python foi uma vantagem significativa.</p>
@@ -250,7 +250,7 @@ Os critérios utilizados para comparar as ferramentas foram:
 
 **Dataset:** [População Estadual Brasileira no Kaggle](https://github.com/DamiaoArth/DataScience/blob/main/Estudos%20Te%C3%B3ricos/Pesquisa%20sobre%20Plataformas%20de%20Data%20Analytics/data/br-population-2015-2024.csv)
 
-<img src="images/streamlit.jpg" alt="Streamlit" style="width: 100%; height: auto;">
+![Streamlit.png](images/streamlit.png)
 
 ---
 
